@@ -10,6 +10,13 @@ Genisis of this question
 =======
 Last week I at Infowarcon (http://infowarcon.com/) in Nashville I floated my idea of investigating the auto insurance boxes that you install that give you lower rates if you allow them to monitor you. People liked that, but then we got into OnStar and trying to understand what they collect, how they transmit it, how they store your data and what they can do with it later. This seemed to have a broader interest because it's not voluntary like the auto insurance box, plus it's more standardized, with other car companies coming up with their own OnStar like solution, and their EULAs could be completely different.
 
+Possiblity for a talk
+=======
+This could fit in for [DEF CON 22](https://www.defcon.org/html/defcon-22/dc-22-cfp.html) under the topic Life Safety:
+*Automobiles, airplanes, navigation systems that depend on insecure GPS data, implantable medical devices and the power grid are examples of systems that impact the direct safety of people. This is where bits meet bodies. There needs to be an extra level of scrutiny in these cases, and so far this hasn't been enough.
+
+Your mission is to attack and document weaknesses in these systems as well as offer solutions. If industry is building weak products and government is not providing enough oversight then let's show 'em what is possible with this tech. The more pressure we can bring now the better it will be for everyone later.*
+
 WTF is OnStar?
 ===========
 OnStar Corporation is a subsidiary of General Motors that provides subscription-based communications, in-vehicle security, hands free calling, turn-by-turn navigation, and remote diagnostics systems throughout the United States, Canada and China.
