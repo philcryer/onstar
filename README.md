@@ -1,16 +1,14 @@
-On-Star
-
-On-Star
+OnStar
 ======
 *is it good, or is it whack?* 
 
 ![OnStar logo, ftw!](https://upload.wikimedia.org/wikipedia/en/2/29/On_star1234-.jpg)
 
-This is a study looking at the specifics of On-Star (and competing products) data gathering, transmission and storing procedures. What do they collect; how do they handle/protect the data they save; what *can* they do with user data? After this, we'll have a feasibility study to see if we want to make a talk out of this for infosec/privacy cons. 
+This is a study looking at the specifics of OnStar (and competing products) data gathering, transmission and storing procedures. What do they collect; how do they handle/protect the data they save; what *can* they do with user data? After this, we'll have a feasibility study to see if we want to make a talk out of this for infosec/privacy cons. 
 
 Genisis of this question
 =======
-Last week I at Infowarcon (http://infowarcon.com/) in Nashville I floated my idea of investigating the auto insurance boxes that you install that give you lower rates if you allow them to monitor you. People liked that, but then we got into On-Star and trying to understand what they collect, how they transmit it, how they store your data and what they can do with it later. This seemed to have a broader interest because it's not voluntary like the auto insurance box, plus it's more standardized, with other car companies coming up with their own On-Star like solution, and their EULAs could be completely different.
+Last week I at Infowarcon (http://infowarcon.com/) in Nashville I floated my idea of investigating the auto insurance boxes that you install that give you lower rates if you allow them to monitor you. People liked that, but then we got into OnStar and trying to understand what they collect, how they transmit it, how they store your data and what they can do with it later. This seemed to have a broader interest because it's not voluntary like the auto insurance box, plus it's more standardized, with other car companies coming up with their own OnStar like solution, and their EULAs could be completely different.
 
 What is On-Star?
 ===========
