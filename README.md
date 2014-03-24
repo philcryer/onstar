@@ -6,11 +6,15 @@ OnStar
 
 This is a study looking at the specifics of OnStar (and competing products) data gathering, transmission and storing procedures. What do they collect; how do they handle/protect the data they save; what *can* they do with user data? After this, we'll have a feasibility study to see if we want to make a talk out of this for infosec/privacy cons. 
 
-Genisis of this question
+Genesis of this question
 =======
 Last week I at Infowarcon (http://infowarcon.com/) in Nashville I floated my idea of investigating the auto insurance boxes that you install that give you lower rates if you allow them to monitor you. People liked that, but then we got into OnStar and trying to understand what they collect, how they transmit it, how they store your data and what they can do with it later. This seemed to have a broader interest because it's not voluntary like the auto insurance box, plus it's more standardized, with other car companies coming up with their own OnStar like solution, and their EULAs could be completely different.
 
-Possiblity for a talk
+Abstract pass #1
+=======
+When thinking about how OnStar (and competing products) work, what kind of data do they collect, how it's stored locally, how it's transferred to centralized servers, is it encrypted for that journey, what data is saved long term, is it anonymized at any point, and finally, what *can* and *cannot* the data be used for? With information stored about driving and location, when will this data becoming useful in a criminal case as far as establishing someone's location, or details about their driving, etc. Interested? Can you help me soldier some stuff together so we can 'listen' to a transfer from OnStar or similar products? Do you know of any existing research in this area? Especially with cars now 'sensing' other cars to avoid accidents, and the long term expectation of cars driving themselves, the time is right to understand what is happening now.
+
+Possibility for a talk
 =======
 This could fit in for [DEF CON 22](https://www.defcon.org/html/defcon-22/dc-22-cfp.html) under the topic Life Safety:
 *Automobiles, airplanes, navigation systems that depend on insecure GPS data, implantable medical devices and the power grid are examples of systems that impact the direct safety of people. This is where bits meet bodies. There needs to be an extra level of scrutiny in these cases, and so far this hasn't been enough.
